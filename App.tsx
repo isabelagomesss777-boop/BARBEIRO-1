@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Services from './components/Services';
-import Testimonials from './components/Testimonials';
-import Footer from './components/Footer';
-import FloatingWhatsApp from './components/FloatingWhatsApp';
+import Navbar from './Navbar';
+import Hero from './Herói';
+import About from './Sobre';
+import Services from './Serviços';
+import Testimonials from './Testemunhos';
+import Footer from './Footer';
+import FloatingWhatsApp from './FloatingWhatsApp';
 
 export default function App() {
   return (
